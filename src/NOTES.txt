@@ -4,7 +4,9 @@ npm install react-router-dom
 
 npm start
 
-npm install --save-dev gh-pages
+//npm install --save-dev gh-pages
+
+npm install -g gh-pages
 
 package.json
 {
