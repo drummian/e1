@@ -21,5 +21,13 @@ package.json
 npm run deploy
 
 
+On GitHub:
+
+Go to your repository (the one named e1).
+Click Settings → Pages (in the sidebar or under “Code and automation” in newer layouts).
+Under Build and Deployment (or “Source”), confirm:
+Branch is gh-pages (or it should say that it’s being served from the gh-pages branch).
+Folder is / (root) if shown.
+
 
 https://drummian.github.io/e1
